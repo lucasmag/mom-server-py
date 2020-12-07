@@ -1,0 +1,12 @@
+certifi==2020.12.5
+chardet==3.0.4
+dnspython==1.16.0
+eventlet==0.29.1
+greenlet==0.4.17
+idna==2.10
+pika==1.1.0
+python-engineio==3.14.2
+python-socketio==4.6.1
+requests==2.25.0
+six==1.15.0
+urllib3==1.26.2
